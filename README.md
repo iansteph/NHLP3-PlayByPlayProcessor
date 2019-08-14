@@ -1,3 +1,5 @@
+![AWS CodeBuild Builde Badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiRm1MTnQ5Y1ErOUt4dlBPeE40cFN4UklITFJDbzM2QWVwTHc3bzdUa05VaDIzU1c5dnJSUVRxR2dTM08xZGZwRWROL09JL3BydVdBU3ZScmdzWE50dlpnPSIsIml2UGFyYW1ldGVyU3BlYyI6ImNDdTNyQ2hXU2VJQ0JiR24iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 # AWS
 
 This is a sample template for AWS - Below is a brief explanation of what we have generated for you:
