@@ -18,7 +18,7 @@ phases:
       - mvn package shade:shade
       - mv target/HelloWorld-1.0.jar .
       - unzip HelloWorld-1.0.jar
-      - rm -rf target tst src buildspec.yml pom.xml HelloWorld-1.0.jar
+      - rm -rf target tst src buildspec.yaml pom.xml HelloWorld-1.0.jar
       - aws cloudformation package --template ../template.yaml --s3-bucket nhlp3-play-by-play-processor-cloudformation-artifacts --output-template ../template-export.yaml
 
 artifacts:
